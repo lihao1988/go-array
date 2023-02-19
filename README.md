@@ -6,11 +6,7 @@
 [4]: LICENSE
 
 #### 介绍
-PHP 转行到 Golang 过程中，实现部分 PHP 代码中使用频率较高的函数，让 PHPer 蜕变为 Gopher 更简单、更快捷！
-
-#### README
-[README](https://github.com/lihao1988/php2go/blob/main/README.md)  
-[README-en](https://github.com/lihao1988/php2go/blob/main/README.en.md)
+基于 reflect 的应用，实现 go 语言 Array(Slice/Map) 常用工具函数的封装，具体的函数方式下面有详细内容讲解。
 
 #### 安装
 ```shell
