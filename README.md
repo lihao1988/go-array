@@ -6,7 +6,7 @@
 [4]: LICENSE
 
 #### 介绍
-基于 reflect 的应用，实现 go 语言 Array(Slice/Map) 常用工具函数的封装，具体的函数方式下面有详细内容讲解。
+基于 reflect 的应用，实现 go 语言 Array(Slice/Map) 常用工具函数，具体的函数方式下面有详细内容讲解。
 
 #### 安装
 ```shell
