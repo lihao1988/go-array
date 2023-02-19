@@ -1,4 +1,4 @@
-# php2go
+# go-array
 
 [![MIT licensed][3]][4]
 
